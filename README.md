@@ -156,7 +156,7 @@ This project is intended for **academic and demonstration purposes only**. The s
 
 ## 👨‍💻 Author
 
-**Jenas (Corder2233)**
+**(Corder2233)**
 Minor Project – Human Gait Analysis using Reinforcement Learning
 Department of Engineering
 
